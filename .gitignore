@@ -82,3 +82,7 @@ fabric.properties
 .idea/sonarlint
 
 # End of https://www.gitignore.io/api/intellij
+
+target
+.idea
+jdbc-dao.iml
